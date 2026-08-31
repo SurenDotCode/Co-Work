@@ -1,7 +1,7 @@
 {
   "framework": "nextjs",
   "buildCommand": "next build",
-  "regions": ["iad1", "bom1"],
+  "regions": ["bom1"],
   "headers": [
     {
       "source": "/api/(.*)",
